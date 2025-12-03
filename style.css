@@ -25,3 +25,17 @@ nav a:hover {
 .content {
     padding: 20px;
 }
+/* Dark mode Colors */
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+.dark-mode header {
+    background: #333;
+}
+
+.dark-mode nav a {
+    color: #00eaff;
+}
+
